@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20291738861",
+    "project_id": "mylogin-cc09e",
+    "storage_bucket": "mylogin-cc09e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20291738861:android:1a82faca15f6e4d570c0e4",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqY2dTd39_iBmiKYyqee90QlPAO9_6tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
